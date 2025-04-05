@@ -1,0 +1,137 @@
+body {
+  font-family: 'Syne', sans-serif; 
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image-container {
+  text-align: center;
+  width: 100%;
+}
+
+.links-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.w3-button {
+  width: 350px;
+}
+
+footer img {
+  width: 150px;
+  height: 150px;
+}
+
+.w3-margin {
+  margin: 16px 0;
+}
+
+.w3-padding {
+  padding: 16px;
+}
+
+.w3-margin-bottom {
+  margin-bottom: 16px;
+}
+
+.w3-margin-top {
+  margin-top: 16px;
+}
+
+.w3-margin-left {
+  margin-left: 16px;
+}
+
+.w3-margin-right {
+  margin-right: 16px;
+}
+
+.w3-padding-32 {
+  padding: 32px;
+}
+
+.w3-padding-48 {
+  padding: 48px;
+}
+
+.w3-xlarge {
+  font-size: 24px;
+}
+
+.w3-large {
+  font-size: 18px;
+}
+
+.w3-margin {
+  margin: 16px 0;
+}
+
+.w3-padding {
+  padding: 16px;
+}
+
+.w3-margin-bottom {
+  margin-bottom: 16px;
+}
+
+.w3-margin-top {
+  margin-top: 16px;
+}
+
+.w3-margin-left {
+  margin-left: 16px;
+}
+
+.w3-margin-right {
+  margin-right: 16px;
+}
+
+.w3-padding-32 {
+  padding: 32px;
+}
+
+.w3-padding-48 {
+  padding: 48px;
+}
+
+.w3-xlarge {
+  font-size: 24px;
+}
+
+.w3-large {
+  font-size: 18px;
+}
+
+.w3-text-black {
+  color: #000;
+}
+
+.w3-text-white {
+  color: #fff;
+}
+
+.w3-hover-blue {
+  transition: background-color 0.3s;
+}
+
+.w3-hover-blue:hover {
+  background-color: #2196f3;
+}
+
+.w3-hover-opacity {
+  transition: opacity 0.3s;
+}
+
+.w3-hover-opacity:hover {
+  opacity: 0.7;
+}

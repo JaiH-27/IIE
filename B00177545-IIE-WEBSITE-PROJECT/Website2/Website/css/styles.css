@@ -1,0 +1,13 @@
+/* Main CSS file that imports all other CSS files */
+
+/* Import global styles */
+@import url('main.css');
+
+/* Import layout components */
+@import url('layout.css');
+
+/* Import UI components */
+@import url('components.css');
+
+/* Import utility classes */
+@import url('utilities.css');
